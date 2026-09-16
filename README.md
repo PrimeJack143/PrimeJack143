@@ -1,4 +1,7 @@
-# <p align="center">✨ Mabuhay! 你好! Welcome to My Digital Domain ✨</p>
+Ayan, buo na. I-copy mo na lang lahat ng nasa loob ng code block sa ibaba. Kung may copy button ang editor mo, click mo lang. 👍
+
+```markdown
+# <p align="center">✨ Mabuhay! 你好! Welcome sa Aking Digital Kingdom ✨</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C96&center=true&vCenter=true&width=600&lines=18-Year-Old+Embedded+Systems+Engineer;Developer+%26+System+Engineer;Blackhat+%E2%9E%94+Whitehat+Hacker;Music+Producer+%26+DJ;Photographer+%26+Videographer;Graphic+Designer+%26+Creative+Writer" alt="Typing SVG" />
@@ -13,32 +16,32 @@
 
 ---
 
-> *"Mastering hardware & low-level code by day, weaving sound & visuals by night. An 18-year-old digital polymath merging embedded hardware, system engineering, security, and creative arts into a single journey."*
+> *"Hardware at low-level code sa umaga, sound at visuals sa gabi. Isang 18-year-old digital polymath na pinagsasama ang embedded hardware, system engineering, security, at creative arts sa isang epic na journey. Yes, lahat 'yan — hindi ako nagbibiro."*
 
 ---
 
-## 🌸 About Me // 关于我 | Tungkol sa Akin
+## 🌸 About Me // 关于我 | Kilalanin Mo Ako
 
 ```yaml
 Character Profile:
-  Age: 18
+  Age: 18 (bata pa pero marunong na)
   Base Class: Embedded Systems Engineer & System Engineer
   Subclasses: Software Developer, Whitehat Hacker, Music Producer, Visual Artist, Writer
-  Passive Skill: [Extreme Adaptation] - Learns new hardware, firmware, tools, and arts at 3x speed
-  Alignment: Chaotic Good (From Rogue Blackhat to Guardian Whitehat)
-  Current Mana: 100% (Fueled by Lo-Fi, Coffee, and Code)
+  Passive Skill: [Extreme Adaptation] - Natututo ng bagong hardware, firmware, tools, at arts ng 3x bilis. Oo, 3x. Hindi ako nagmamayabang, sadyang mabilis lang.
+  Alignment: Chaotic Good (Dati akong Blackhat, ngayon Guardian Whitehat na. Redemption arc, mga bes.)
+  Current Mana: 100% (Fueled by Lo-Fi, Kape, at Code. Wag mo akong kausapin bago ako magkape.)
 ```
 
-- 🔌 **Embedded Systems & Hardware:** Gumagawa ng custom firmware, microcontrollers (ESP32, STM32, Arduino, Raspberry Pi), IoT architectures, at low-level C/C++ code.
-- 💻 **Tech & Systems:** Pag-develop ng scalable software, pag-manage ng server stacks, at pagdesign ng stable na infrastructure.
-- 🛡️ **Cybersecurity:** Dati akong **Blackhat** at naging **Whitehat**, nag-iinspection ng penetration testing, hardware hacking, at security audits.
-- 🎧 **Sound Design & Beats:** Nagpopro-duce ng EDM/Hip-Hop beats, audio engineering, at nagde-DJ.
-- 🎬 **Visual Media:** Photographer at videographer (Photography/Videography), video editing, motion graphics, at graphic design.
-- ✍️ **Writer:**  Nagsusulat ng mga novel, short stories, at kahit anong concepts.
+- 🔌 **Embedded Systems & Hardware:** Gumagawa ako ng custom firmware, microcontrollers (ESP32, STM32, Arduino, Raspberry Pi), IoT architectures, at low-level C/C++ code. Parang Doctor Strange pero sa circuit board.
+- 💻 **Tech & Systems:** Nagde-develop ng scalable software, nagma-manage ng server stacks, at nagde-design ng stable infrastructure. Kapag bumagsak server mo, tawagin mo ako — charot, pero seryoso, tawagin mo ako.
+- 🛡️ **Cybersecurity:** Dati akong **Blackhat** (wag ka nang magtanong, kabataan days 'yon) at naging **Whitehat** na. Ngayon, penetration testing, hardware hacking, at security audits ang trip ko. Good boy era na, mga kaibigan.
+- 🎧 **Sound Design & Beats:** Nagpo-produce ng EDM/Hip-Hop beats, audio engineering, at nagde-DJ. Kapag nag-drop ako ng beat, wag kang ma-shock — talent 'yan.
+- 🎬 **Visual Media:** Photographer at videographer, video editing, motion graphics, at graphic design. Basically, kung kailangan mo ng content, ako na 'yan. All-in-one package, ika nga.
+- ✍️ **Writer:** Nagsusulat ng novels, short stories, at kahit anong concepts na pumasok sa isip ko. Yes, mahilig ako mag-imagine. Wag mo akong i-bash, writer's mind 'to.
 
 ---
 
-## 🎭 RPG Character Stats // 属性 | Mga Stats
+## 🎭 RPG Character Stats // 属性 | Stats Ko (Wag Kainggitin)
 
 | Attribute | Level / Rating | Primary Toolset / Weapon |
 | :--- | :--- | :--- |
@@ -52,9 +55,11 @@ Character Profile:
 | **Graphic Design** | █████████░ 85% | Illustrator, Figma, Canvas Design |
 | **Writing & Lore** | ████████░░ 80% | Markdown, Creative Prose, Scriptwriting |
 
+*Disclaimer: Hindi po ako perfect, pero close enough. 😌*
+
 ---
 
-## ⚡ Skill Tree & Toolkit // 技能 | Mga Skills ko
+## ⚡ Skill Tree & Toolkit // 技能 | Mga Skills Ko (Flex Lang)
 
 ### 🔌 Embedded Systems & Hardware Engineering
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -93,17 +98,17 @@ Character Profile:
 
 ---
 
-## 🗡️ Current Quest Arc // 任务 | Mga Current Quest ko
+## 🗡️ Current Quest Arc // 任务 | Mga Quest Ko Ngayon (Ganito Ang Buhay Ko)
 
-- 🔌 **Side Quest (Main Quest):** Pagbuo ng custom microcontroller firmware (ESP32/STM32) at IoT hardware tools.
-- 🎯 **Side Quest 1:** Pagdesing ng high-availability open-source tools at pagpapatibay ng server infrastructure.
-- 🛡️ **Side Quest 2:** Pag-aaral ng hardware hacking, reverse engineering, at bug hunting.
-- 🎵 **Side Quest 3:** Nagrerelapse 
-- 🎬 **Side Quest 4:** Pagdirect ng cinematic short film at motion graphics reel.
+- 🔌 **Main Quest:** Pagbuo ng custom microcontroller firmware (ESP32/STM32) at IoT hardware tools. Basically, nagpapasikat ako sa hardware world.
+- 🎯 **Side Quest 1:** Pag-design ng high-availability open-source tools at pagpapalakas ng server infrastructure. Kapag bumagsak 'to, kasalanan ko — kaya dapat matibay.
+- 🛡️ **Side Quest 2:** Pag-aaral ng hardware hacking, reverse engineering, at bug hunting. Hindi ako naghahanap ng gulo — nag-aaral lang ako para sa whitehat life.
+- 🎵 **Side Quest 3:** Nagre-relapse. Wait lang, nasa music production era ako ngayon. Wag mo akong guluhin.
+- 🎬 **Side Quest 4:** Pag-direct ng cinematic short film at motion graphics reel. Spielberg era, charot.
 
 ---
 
-## 📊 Cyber Deck Radar // 统计 | Terminal at Statistics
+## 📊 Cyber Deck Radar // 统计 | Stats At Terminal (Flex Lang 'To)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrimeJack143&show_icons=true&theme=tokyonight&border_color=f75c96&title_color=f75c96&icon_color=00f5d4" alt="GitHub Stats" width="48%" />
@@ -114,9 +119,11 @@ Character Profile:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrimeJack143&theme=tokyonight&border=f75c96&background=1a1b26" alt="GitHub Streak" width="97%" />
 </p>
 
+*Yes, active ako. Hindi ako tulad ng iba na puro fork lang ang ginagawa. 😏*
+
 ---
 
-## 🎧 Creative Station & Portfolios // 作品集 | Gallery
+## 🎧 Creative Station & Portfolios // 作品集 | Mga Gawa Ko
 
 <p align="center">
   <a href="https://soundcloud.com"><img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" /></a>
@@ -125,15 +132,17 @@ Character Profile:
   <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
+*Punta ka na lang diyan, wag ka nang mahiya. Support lang ang kailangan ko. 🥺*
+
 ---
 
-## 📬 Dispatch Guild Signal // 联系方式 | Contacts Us
+## 📬 Dispatch Guild Signal // 联系方式 | Contact Mo Ako (Wag Kang Mahiyang Mag-DM)
 
 <p align="center">
   <a href="mailto:jackjackcuizon@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://facebook.com](https://www.facebook.com/writtenbyjack)">
+  <a href="https://www.facebook.com/writtenbyjack">
     <img src="https://img.shields.io/badge/Facebook-5865F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://linkedin.com">
@@ -144,6 +153,11 @@ Character Profile:
   </a>
 </p>
 
+*Kung magre-reach out ka, sana may sense. Kung wala, edi wow. Charot. DM lang, reply ako agad — promise, mabilis ako mag-reply. 😉*
+
 <p align="center">
-  <sub><i>"Code is my magic system, hardware is my vessel, sound is my rhythm, and visuals are my vision." ✨</i></sub>
+  <sub><i>"Code is my magic system, hardware is my vessel, sound is my rhythm, at visuals ay vision ko. Ikaw? Baka ikaw ang next collaborator ko. 👀" ✨</i></sub>
 </p>
+```
+
+Ayan, kumpleto na. I-copy mo na lang lahat. 🚀
