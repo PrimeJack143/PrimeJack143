@@ -1,11 +1,8 @@
-Ayan, buo na. I-copy mo na lang lahat ng nasa loob ng code block sa ibaba. Kung may copy button ang editor mo, click mo lang. 👍
-
-```markdown
 # <p align="center">✨ Mabuhay! 你好! Welcome sa Aking Digital Kingdom ✨</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C96&center=true&vCenter=true&width=600&lines=18-Year-Old+Embedded+Systems+Engineer;Developer+%26+System+Engineer;Blackhat+%E2%9E%94+Whitehat+Hacker;Music+Producer+%26+DJ;Photographer+%26+Videographer;Graphic+Designer+%26+Creative+Writer" alt="Typing SVG" />
-</p>
+</p
 
 <p align="center">
   <a href="#-about-me--关于我--tungkol-sa-akin"><img src="https://img.shields.io/badge/Level-18-ff69b4?style=for-the-badge&logo=gamemaker&logoColor=white" /></a>
@@ -158,6 +155,3 @@ Character Profile:
 <p align="center">
   <sub><i>"Code is my magic system, hardware is my vessel, sound is my rhythm, at visuals ay vision ko. Ikaw? Baka ikaw ang next collaborator ko. 👀" ✨</i></sub>
 </p>
-```
-
-Ayan, kumpleto na. I-copy mo na lang lahat. 🚀
