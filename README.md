@@ -1,4 +1,4 @@
-# <p align="center">✨ Mabuhay! 你好! Welcome sa Aking Digital Kingdom ✨</p>
+# <p align="center">✨ Mabuhay! 你好! Welcome sa Digital Kingdom ko bro/sis ✨</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C96&center=true&vCenter=true&width=600&lines=18-Year-Old+Embedded+Systems+Engineer;Developer+%26+System+Engineer;Blackhat+%E2%9E%94+Whitehat+Hacker;Music+Producer+%26+DJ;Photographer+%26+Videographer;Graphic+Designer+%26+Creative+Writer" alt="Typing SVG" />
@@ -26,7 +26,7 @@ Character Profile:
   Subclasses: Software Developer, Whitehat Hacker, Music Producer, Visual Artist, Writer
   Passive Skill: [Extreme Adaptation] - Natututo ng bagong hardware, firmware, tools, at arts ng 3x bilis. Oo, 3x. Hindi ako nagmamayabang, sadyang mabilis lang.
   Alignment: Chaotic Good (Dati akong Blackhat, ngayon Guardian Whitehat na. Redemption arc, mga bes.)
-  Current Mana: 100% (Fueled by Lo-Fi, Kape, at Code. Wag mo akong kausapin bago ako magkape.)
+  Current Mana: 100% (Fueled by Sad songs, Crush, at Code. Wag mo akong kausapin pag akoang rerelapse.)
 ```
 
 - 🔌 **Embedded Systems & Hardware:** Gumagawa ako ng custom firmware, microcontrollers (ESP32, STM32, Arduino, Raspberry Pi), IoT architectures, at low-level C/C++ code. Parang Doctor Strange pero sa circuit board.
@@ -123,10 +123,8 @@ Character Profile:
 ## 🎧 Creative Station & Portfolios // 作品集 | Mga Gawa Ko
 
 <p align="center">
-  <a href="https://soundcloud.com"><img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" /></a>
-  <a href="https://youtube.com"><img src="https://img.shields.io/badge/YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://behance.net"><img src="https://img.shields.io/badge/Behance_Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
-  <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@jackfruitful"><img src="https://img.shields.io/badge/YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.instagram.com/jacklxofficial"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 *Punta ka na lang diyan, wag ka nang mahiya. Support lang ang kailangan ko. 🥺*
@@ -141,12 +139,6 @@ Character Profile:
   </a>
   <a href="https://www.facebook.com/writtenbyjack">
     <img src="https://img.shields.io/badge/Facebook-5865F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com">
-    <img src="https://img.shields.io/badge/X/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
 
