@@ -21,7 +21,7 @@
 
 ```yaml
 Character Profile:
-  Age: 18 (bata pa pero marunong na)
+  Age: 18 
   Base Class: Embedded Systems Engineer & System Engineer
   Subclasses: Software Developer, Whitehat Hacker, Music Producer, Visual Artist, Writer
   Passive Skill: [Extreme Adaptation] - Natututo ng bagong hardware, firmware, tools, at arts ng 3x bilis. Oo, 3x. Hindi ako nagmamayabang, sadyang mabilis lang.
